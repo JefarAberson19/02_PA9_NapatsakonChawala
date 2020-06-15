@@ -58,13 +58,35 @@ namespace _02_PA9_NapatsakonChawala
                     txt_Converted.Clear();
                     label4.Text = "Invalid Input.";
                 }
-            }
+            }
+            else if (rb_MYR.Checked)
+            {
+                try
+                {
+                    decimal amount = System.Convert.ToDecimal(txt_Amount.Text);
+                    decimal converted_amount = amount * 3.01M;
+                    txt_Converted.Text = "MYR" + converted_amount.ToString();
+                    label4.Text = "";
+                }
+                catch (FormatException)
+                {
+                    txt_Amount.Clear();
+                    txt_Converted.Clear();
+                    label4.Text = "Invalid Input.";
+                }
+            }
         }
 
         private void btn_Clear_Click(object sender, EventArgs e)
         {
             txt_Amount.Clear();
-            txt_Converted.Clear();
+            txt_Converted.Clear();
+
+        }
+
+        private void rb_MYR_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -8,3 +8,13 @@ E:\SCH\Sugan\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\02_PA9_Napatsakon
 E:\SCH\Sugan\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\02_PA9_NapatsakonChawala.csproj.CoreCompileInputs.cache
 E:\SCH\Sugan\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\02_PA9_NapatsakonChawala.exe
 E:\SCH\Sugan\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\02_PA9_NapatsakonChawala.pdb
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\bin\Debug\02_PA9_NapatsakonChawala.exe.config
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\bin\Debug\02_PA9_NapatsakonChawala.exe
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\bin\Debug\02_PA9_NapatsakonChawala.pdb
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\02_PA9_NapatsakonChawala.csprojAssemblyReference.cache
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\_02_PA9_NapatsakonChawala.Form1.resources
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\_02_PA9_NapatsakonChawala.Properties.Resources.resources
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\02_PA9_NapatsakonChawala.csproj.GenerateResource.cache
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\02_PA9_NapatsakonChawala.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\02_PA9_NapatsakonChawala.exe
+C:\Users\Alpha\Documents\GitHub\02_PA9_NapatsakonChawala\02_PA9_NapatsakonChawala\obj\Debug\02_PA9_NapatsakonChawala.pdb
